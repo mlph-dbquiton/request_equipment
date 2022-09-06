@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "429966200384",
+    "project_id": "monstarlab-exercise",
+    "storage_bucket": "monstarlab-exercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429966200384:android:b011407b39f6cbef7719a5",
+        "android_client_info": {
+          "package_name": "com.monstarlab.requestEquipment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429966200384-amnfalcfhq62foaeivd8j9j5hg2fosde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKT5yFS2lssxwi6SHRjmC9oJSdTA-9MHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429966200384-amnfalcfhq62foaeivd8j9j5hg2fosde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
